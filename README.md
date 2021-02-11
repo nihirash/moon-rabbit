@@ -30,9 +30,9 @@ For starting browser just run `moonr.com` and enjoy it.
 
 ## Development plan
 
-[X] Publish first version and get first happy users
-[ ] Add support for some graphics format
-[ ] Maybe something else?
+ - [X] Publish first version and get first happy users
+ - [ ] Add support for some graphics format
+ - [ ] Maybe something else?
 
 ## Sponsorship
 
