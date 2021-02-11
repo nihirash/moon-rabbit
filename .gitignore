@@ -3,3 +3,5 @@
 *.com
 *.lst
 dist/
+.DS_Store
+*.dsk
